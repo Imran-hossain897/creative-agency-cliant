@@ -1,0 +1,8 @@
+.card-hover:hover{
+  background: #FFFFFF;
+box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+height: 400px;
+}
+.img-size{
+  width: 100px;
+}

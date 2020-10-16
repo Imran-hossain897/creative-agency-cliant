@@ -1,0 +1,15 @@
+.order-input input{
+    width: 570px;
+    height: 60px;
+}
+.order-input textarea {
+    width: 570px;
+    height: 112px;
+}
+.order-input{
+    background: #E5E5E5;
+}
+.order-btn button{
+    width: 170px;
+    height: 45px;
+}
